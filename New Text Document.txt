@@ -1,7 +1,0 @@
-CHANGES MADE 
-1.converting output to data 'frame type'.
-2.converting data frame to string type.  
-3.dealing with the ascii letters in string.
-4.sending email of the output.
-5.storing the string inside of a file 
-6.sending the file through python 
