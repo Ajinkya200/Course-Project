@@ -1,0 +1,6 @@
+CHANGES MADE 
+
+1.  importing information about different products  from the web.
+2.  converting information from html  to 'data frame type'.
+3.  making a table from obtained information .
+4.  sending the table using email server on users email address.
